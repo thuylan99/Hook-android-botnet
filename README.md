@@ -20,3 +20,6 @@ I spent a month dealing with a scammer. In the end, I confronted him, and he did
 All these people are one @AliceExploit @HookBotnetPanel @GhostRDP_bot; they are hypocrites, no better than filthy scammers.
 
 P/s: The installation file I uploaded is a fake file that @AliceExploit sent to me.
+
+![image](https://github.com/thuylan99/Hook-android-botnet/assets/146705172/46fd5347-e291-4702-b60b-778c2cbdb716)
+
