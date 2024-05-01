@@ -2,7 +2,7 @@ Hello everyone!
 
 I creat this project to warn those who are interested in the Hook Android botnet, that @AliceExploit is a scammer.
 
-He constantly preaches on his Telegram channel about scammers, but he himself is a scammer. Here is his Telegram channels: @HookBotnetPanel
+He constantly preaches on his Telegram channel about scammers, But he himself is a despicable scammer with dirty tricks. Here is his Telegram channels: @HookBotnetPanel
 
 The lifetime version is priced at 1000 USD. He advertises it as the most powerful version, already integrated with FUD to bypass Google's security measures
 
