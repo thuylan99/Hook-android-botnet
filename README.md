@@ -2,9 +2,9 @@
 
 **Hello everyone!**
 
-I creat this project to warn those who are interested in the Hook Android botnet, that @AliceExploit is a scammer.
+I creat this project to warn those who are interested in the Hook Android botnet, that [AliceExploit](https://t.me/AliceExploit) is a scammer.
 
-He constantly preaches on his Telegram channel about scammers, But he himself is a despicable scammer with dirty tricks. Here is his Telegram channels: @HookBotnetPanel
+He constantly preaches on his Telegram channel about scammers, But he himself is a despicable scammer with dirty tricks. Here is his Telegram channels:  [HookBotnetPanel](https://t.me/HookBotnetPanel)
 
 The lifetime version is priced at 1000 USD. He advertises it as the most powerful version, already integrated with FUD to bypass Google's security measures
 
@@ -22,7 +22,7 @@ I spent a month dealing with a scammer. In the end, I confronted him, and he did
 All these people are one @AliceExploit @HookBotnetPanel @GhostRDP_bot; they are hypocrites, no better than filthy scammers.
 
 
-**This is evidence proving that @AliceExploit and @HookBotnetPanel are scammers:**
+**This is evidence proving that [AliceExploit](https://t.me/AliceExploit) and [HookBotnetPanel](https://t.me/HookBotnetPanel) are scammers:**
 
 ![image](https://github.com/thuylan99/Hook-android-botnet/assets/146705172/39b313fd-87e7-4884-a8dc-0febeb138830)
 ![image](https://github.com/thuylan99/Hook-android-botnet/assets/146705172/36dc154d-a0fe-4cac-9066-7bb61725a1b1)
@@ -43,7 +43,7 @@ All these people are one @AliceExploit @HookBotnetPanel @GhostRDP_bot; they are 
 ![image](https://github.com/thuylan99/Hook-android-botnet/assets/146705172/c7f14350-1c23-4d1d-844e-c2cff75fb538)
 
 
-**This is evidence proving that @ghostrdp_bot is a scammer:**
+**This is evidence proving that @ghostrdp_bot www.ghostnetrdp.com is a scammer:**
 
 ![image](https://github.com/thuylan99/Hook-android-botnet/assets/146705172/d69656ab-8b94-4e95-8cba-74461a73c2e0)
 ![image](https://github.com/thuylan99/Hook-android-botnet/assets/146705172/ce889a97-6972-4a03-a53e-23e40849c250)
