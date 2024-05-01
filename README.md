@@ -6,7 +6,7 @@ He constantly preaches on his Telegram channel about scammers, But he himself is
 
 The lifetime version is priced at 1000 USD. He advertises it as the most powerful version, already integrated with FUD to bypass Google's security measures
 
-If you transfer cryptocurrency to him, he won't install it for you right away. He will come up with ridiculous excuses such as his computer being broken, not having a notebook, the server being under maintenance... (ridiculous excuses)
+If you transfer cryptocurrency to him, he won't install it for you right away. He will come up with ridiculous excuses such as needing to sleep, his computer being broken, not having a notebook, the server being under maintenance... (ridiculous excuses)
 
 He will lure you into buying a server and introduce you to www.ghostnetrdp.com to buy it for 140 USD for 2 months. If you continue to transfer cryptocurrency to buy the server, congratulations, you will continue to be scammed.
 
