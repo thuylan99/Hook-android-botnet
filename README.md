@@ -1,3 +1,5 @@
+**@AliceExploit is a scammer**
+
 **Hello everyone!**
 
 I creat this project to warn those who are interested in the Hook Android botnet, that @AliceExploit is a scammer.
