@@ -4,11 +4,13 @@ I creat this project to warn those who are interested in the Hook Android botnet
 
 He constantly preaches on his Telegram channel about scammers, but he himself is a scammer. Here is his Telegram channels: @HookBotnetPanel
 
-The lifetime version is priced at 1.000 USD. If you transfer cryptocurrency to him, he won't install it for you right away. He will come up with ridiculous excuses such as his computer being broken, not having a notebook, the server being under maintenance... (ridiculous excuses)
+The lifetime version is priced at 1000 USD. He advertises it as the most powerful version, already integrated with FUD to bypass Google's security measures
+
+If you transfer cryptocurrency to him, he won't install it for you right away. He will come up with ridiculous excuses such as his computer being broken, not having a notebook, the server being under maintenance... (ridiculous excuses)
 
 He will lure you into buying a server and introduce you to www.ghostnetrdp.com to buy it for 140 USD for 2 months. If you continue to transfer cryptocurrency to buy the server, congratulations, you will continue to be scammed.
 
-After scamming 1.140 USD from you, he will ignore you and hardly respond to your messages.
+After scamming 1140 USD from you, he will ignore you and hardly respond to your messages.
 But one day he will pretend to still owe you, and he will send you a hook installation file. However, that file is fake, and you won't be able to install it with that file
 
 After you realize that you cannot install the file he sent by yourself, he will offer to install it for you. Ironically, after the installation is complete, the .apk file does not work. It cannot be sent via messenger or downloaded through the browser, and it even fails to install on an Android phone, displaying a 'parse error' notification. Then he will continue to lure you into buying additional FUD services to overcome this
