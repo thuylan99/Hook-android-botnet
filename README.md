@@ -13,7 +13,7 @@ He will lure you into buying a server and introduce you to www.ghostnetrdp.com t
 After scamming 1140 USD from you, he will ignore you and hardly respond to your messages.
 But one day he will pretend to still owe you, and he will send you a hook installation file. However, that file is fake, and you won't be able to install it with that file
 
-After you realize that you cannot install the file he sent by yourself, he will offer to install it for you. Ironically, after the installation is complete, the .apk file does not work. It cannot be sent via messenger or downloaded through the browser, and it even fails to install on an Android phone, displaying a 'parse error' notification. Then he will continue to lure you into buying additional FUD services to overcome this
+After you realize that you cannot install the file he sent by yourself, he will offer to install it for you. Ironically, after the installation is complete, the .apk file does not work. It cannot be sent via messenger or downloaded through the browser, And it can't even be installed on an Android phone, displaying a "parse error" notification. Then he will continue to lure you into buying additional FUD services to overcome this
 
 I spent a month dealing with a scammer. In the end, I confronted him, and he didn't dare to respond. Everything I said is true. I have screenshots of all the conversations from the beginning of the transaction until he went silent.
 
